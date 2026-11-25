@@ -66,7 +66,7 @@
 
 Aarna AI operates the Tokenization Bridge for India's Capital Markets, building regulated on-chain infrastructure to tokenise Indian financial assets. Based in GIFT City, it offers permissioned digital tokens backed by Category II alternative investment funds, settled in USD or USDC, targeting accredited investors worldwide. The platform provides APIs for subscription, redemption, reporting, and compliance, leveraging ERC-3643 standards and ONCHAINID identity. It is approved in the IFSCA FinTech Sandbox (Stage 1) with Stage 2 under review, aiming for launch Q4 2026.
 
-**Areas:** FinTech · Tokenization · Blockchain · CapitalMarkets · India · RegTech
+**Areas:** Fintech · Tokenization · Blockchain · Capital Markets · India · RegTech
 
 ## Aarna AI on APIs.io
 
@@ -84,8 +84,8 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Aarna Ai Authentication](https://apis.io/security/aarna-ai/aarna-ai-authentication/)
-- [Aarna Ai Domain Security](https://apis.io/security/aarna-ai/aarna-ai-domain-security/)
+- [Aarna AI Authentication](https://apis.io/security/aarna-ai/aarna-ai-authentication/)
+- [Aarna AI Domain Security](https://apis.io/security/aarna-ai/aarna-ai-domain-security/)
 
 ## Where to find this API
 
@@ -103,25 +103,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 19.7** — emerging · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 18.4** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
 | Discoverability | 57.1 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 10.5 |
-| Developer ergonomics | 42.9 |
-| Access clarity | 21.1 |
+| Operational transparency | 7.1 |
+| Developer ergonomics | 34.5 |
+| Access clarity | 29.8 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 2.8** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | — |
@@ -129,7 +129,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | — |
+| Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -139,8 +139,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 7.8** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aarna-ai/](https://apis.io/providers/aarna-ai/).
 
